@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+
+.idea/
+.vscode/
+
+npm-debug.log*
+build/
