@@ -1,5 +1,5 @@
 // import axios from "axios";
-// import { WebsiteModel } from "../mongoDB/database";
+// import { WebsiteModel } from "../db/database";
 //
 // export async function generateReport(chatId: number) {
 //         const sites = await WebsiteModel.find({ chatId });
